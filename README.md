@@ -1,26 +1,5 @@
 <h1 align="center">Abdallah DIOUF !</h1>
 
-## 🧠 À propos de moi :
-
-- 👨‍💻 Full Stack Developer JS/TS | Backend avec Node.js, Express, PHP, MySQL & MongoDB  
-- 🔐 Spécialiste en authentification sécurisée avec Passport.js  
-- 🚀 Déploiement sur Heroku & Vercel | Gestion CI/CD  
-- 🧪 Conception d'API REST robustes et testables  
-- 🤖 Passionné de Robotique embarquée & systèmes intelligents  
-- 🧠 Développeur Python avec spécialisation IA, Machine Learning et Deep Learning  
-- 🎨 UI/UX Designer avec Figma, Photoshop, Illustrator & Adobe XD  
-- 🎓 Polyglotte en programmation : C, C++, PHP, Python, JavaScript, TypeScript  
-- 🛢️ Base de données : MongoDB, MySQL, Oracle  
-- 📚 Passionné d’apprentissage continu, motivé par les défis tech  
-
----
-
-## 🌐 Mes réseaux :
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sunu-byte-1)
-
----
 
 ## 💻 Tech Stack
 
@@ -92,6 +71,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
+## 🌐 Mes réseaux :
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sunu-byte-1)
+
+---
+
 
 ## 📊 GitHub Stats
 
