@@ -13,7 +13,7 @@ I also contribute to opensource projects<br>
 [![Languages](https://go-skill-icons.vercel.app/api/icons?i=php,javascript,typescript,python,java,cpp,c)](https://skillicons.dev)
 
 ### 🖥️ Frontend
-[![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap,react,reactnative,flutter,nextjs)](https://skillicons.dev)
+[![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap,react,reactnative,nextjs)](https://skillicons.dev)
 
 ### ⚙️ Backend
 [![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=laravel,nodejs,express,nestjs)](https://skillicons.dev)
