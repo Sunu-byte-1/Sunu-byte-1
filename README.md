@@ -1,67 +1,64 @@
 <h1 align="center">Abdallah DIOUF !</h1>
 
+<h1 align="center">A passionate Full Stack developer</h1>
+<div align="center">
 
-## 💻 Tech Stack
+ I’m open to help you take your projects to the next level<br>
+I also contribute to opensource projects<br>
+ How to reach me **abdallahdiouf.dev@gmail.com**<br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nosleepman1&label=Profile%20views&color=yellow&style=flat" alt="49maodo" /> </p>
+
+### 💻 Languages
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=php,javascript,typescript,python,java,cpp,c)](https://skillicons.dev)
 
 ### 🖥️ Frontend
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+[![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap,react,reactnative,flutter,nextjs)](https://skillicons.dev)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Passport.js](https://img.shields.io/badge/Passport.js-34e27a?style=for-the-badge&logo=passport&logoColor=white)
-![API REST](https://img.shields.io/badge/API-REST-orange?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+[![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=laravel,nodejs,express,nestjs)](https://skillicons.dev)
 
-### 🗃️ Base de données
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### 🧩 DataBases
+[![BaaS Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase,mongodb,mysql,sqlite,prisma)](https://skillicons.dev)
 
-### 🧠 Intelligence artificielle
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine--Learning-blue?style=for-the-badge)
+</div>
 
+<details>
 
-### 🧠 langages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<summary> GitHub Stats</summary>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nosleepman1&theme=onedark" alt="49maodo" /></a> </p>
 
-### 🤖 Robotique & Systèmes embarqués
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Serial Communication](https://img.shields.io/badge/Serial--COM-blue?style=for-the-badge)
-![I2C SPI](https://img.shields.io/badge/I2C/SPI-009688?style=for-the-badge)
-![Electronics](https://img.shields.io/badge/Electronique-Basique-lightgrey?style=for-the-badge)
+<p align="center">
+        <img align="center" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosleepman1&layout=compact&langs_count=10&theme=onedark&hide_border=true&count-private=true" 
+        alt="49maodo" />
+        <img align="center" height="auto"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nosleepman1&theme=onedark&hide_border=true" 
+        alt="49maodo" />
+</p>  
 
+<p align="center">
+<img align="center" 
+        src="https://github-readme-stats.vercel.app/api?username=nosleepman1&theme=onedark&hide_border=false&show_icons=true&locale=en" 
+        alt="49maodo" />
+<img align="center" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=nosleepman1&theme=onedark&hide_border=false&" 
+        alt="49maodo" />
+</p>
 
-### ☁️ Outils
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+<img align="center" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nosleepman1&theme=onedark&hide_border=true" 
+        alt="49maodo" />
+</p>
+</details>
+
 
 ---
 
 
 ---
 
-
-## 📊 GitHub Stats
-
-![Sunu-byte-1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunu-byte-1&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunu-byte-1&layout=compact&theme=tokyonight)
-
----
 
 ## 🏆 GitHub Trophies
 
